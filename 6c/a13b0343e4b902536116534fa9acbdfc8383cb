@@ -1,0 +1,14 @@
+README.md
+  h_2f444dd408c3f2 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "6ca13b0343e4b902536116534fa9acbdfc8383cb",
+  "prompts": {},
+  "humans": {
+    "h_2f444dd408c3f2": {
+      "author": "heixing <heixing@xiaohongshu.com>"
+    }
+  }
+}
