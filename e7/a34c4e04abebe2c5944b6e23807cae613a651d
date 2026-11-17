@@ -1,0 +1,19 @@
+profile/README.md
+  s_fd787c4e3c9e85::t_04f6fd4da947bb 2-3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "e7a34c4e04abebe2c5944b6e23807cae613a651d",
+  "prompts": {},
+  "sessions": {
+    "s_fd787c4e3c9e85": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e976-cf7a-72c2-8b59-931161f0feda",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "heixing <heixing@xiaohongshu.com>"
+    }
+  }
+}
