@@ -1,0 +1,35 @@
+assets/icon.svg
+  s_fd787c4e3c9e85::t_adaacf4942ae1b 1-9
+assets/README.md
+  s_fd787c4e3c9e85::t_9fbe2a4c1562b0 13
+  s_fd787c4e3c9e85::t_ea81ed52f548d9 1-12,14-15
+README.md
+  s_fd787c4e3c9e85::t_adaacf4942ae1b 3
+  s_fd787c4e3c9e85::t_49c46a6eb2ee48 1-2
+assets/banner.svg
+  s_af7507aa9b574a::t_e2e93d1c52f25b 1-44
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "43342d4c4b0fc26c86017d99f8f765e4ce8194b8",
+  "prompts": {},
+  "sessions": {
+    "s_af7507aa9b574a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e4c4-9862-7463-a54a-44291f34886a",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "heixing <heixing@xiaohongshu.com>"
+    },
+    "s_fd787c4e3c9e85": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e976-cf7a-72c2-8b59-931161f0feda",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "heixing <heixing@xiaohongshu.com>"
+    }
+  }
+}
